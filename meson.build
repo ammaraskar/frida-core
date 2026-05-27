@@ -1029,6 +1029,7 @@ subdir('compat')
 subdir('tools')
 subdir('lib')
 subdir('src')
+subdir('compiler')
 if build_server
   subdir('server')
 endif
